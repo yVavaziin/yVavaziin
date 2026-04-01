@@ -2,7 +2,7 @@
 
 ### Desenvolvedor em formação | Bacharel em Ciências Contábeis
 
-Atualmente cursando o 2º semestre de Análise e Desenvolvimento de Sistemas (ADS), unindo minha experiência anterior em contabilidade e gestão com a paixão por tecnologia e desenvolvimento de software.
+Atualmente cursando o 4º semestre de Análise e Desenvolvimento de Sistemas (ADS), unindo minha experiência anterior em contabilidade e gestão com a paixão por tecnologia e desenvolvimento de software.
 
 ---
 
@@ -26,11 +26,7 @@ Aqui estão as tecnologias que venho utilizando nos meus projetos:
 
 ---
 
-### 4. Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=yVavaziin&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
----
-
-### 5. Contato
+### 4. Contato
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5561993008834)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vagner-mendes-lucas-filho/)
