@@ -26,7 +26,20 @@ Aqui estão as tecnologias que venho utilizando nos meus projetos:
 
 ---
 
+### 4. Certificações
 
-### 4. Contato
+#### ☕ Java POO - Curso em Vídeo
+
+- 📚 Curso focado em Programação Orientada a Objetos com Java
+- ⏱️ Carga horária: 40 horas
+- 📅 Conclusão: Abril/2026
+
+<img src="./certificados/curso-poo.png" width="700"/>
+
+---
+
+### 5. Contato
+
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5561993008834)
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vagner-mendes-lucas-filho/)
