@@ -34,7 +34,7 @@ Aqui estão as tecnologias que venho utilizando nos meus projetos:
 - ⏱️ Carga horária: 40 horas
 - 📅 Conclusão: Abril/2026
 
-<img src="./certificados/curso-poo.png" width="700"/>
+<img src="./curso-poo.png" width="700"/>
 
 ---
 
